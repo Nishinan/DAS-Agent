@@ -6,3 +6,6 @@ langchain-openai
 pandas
 sqlalchemy
 python-multipart
+pydantic 
+openai
+python-dotenv
